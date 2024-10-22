@@ -3,6 +3,7 @@ O JPApexPredators é um projeto de aplicativo iOS que mostra informações de pr
 
 ## Capturas de Tela
 
+![image](https://github.com/user-attachments/assets/9befff1c-0c2c-4ff8-ab41-f3db5a49b530)
 
 
 
@@ -15,4 +16,4 @@ O JPApexPredators é um projeto de aplicativo iOS que mostra informações de pr
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/predatorso.git
+   git clone https://github.com/KarlaMiriam/app-ios-jpa-apex-predators.git
