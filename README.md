@@ -12,8 +12,13 @@ O JPApexPredators é um projeto de aplicativo iOS que mostra informações de pr
 - Xcode 13 ou superior
 - iOS 15.0 ou superior
 
+## Publicação linkedin
+https://www.linkedin.com/posts/karla-miriam_iosdevelopment-swiftui-mobileapps-activity-7254084044177428480-IJp7?utm_source=share&utm_medium=member_desktop
+
 ## Instalação
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/KarlaMiriam/app-ios-jpa-apex-predators.git
+
+
