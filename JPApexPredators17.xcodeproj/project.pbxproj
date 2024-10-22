@@ -6,6 +6,19 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXCopyFilesBuildPhase section */
+		C7DE865A2CC5751300C74885 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		C7C734D52CC47F6C00D6C42A /* JPApexPredators17.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JPApexPredators17.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -55,6 +68,7 @@
 				C7C734D12CC47F6C00D6C42A /* Sources */,
 				C7C734D22CC47F6C00D6C42A /* Frameworks */,
 				C7C734D32CC47F6C00D6C42A /* Resources */,
+				C7DE865A2CC5751300C74885 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
